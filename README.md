@@ -22,7 +22,7 @@ This is a basic calculator GUI created using Python and Tkinter. It allows users
 
 
 ## Screenshots
-![Calculator Screenshot 1]([screenshots/calculator_screenshot_1.png](https://github.com/Eugassmo14/SImple-Calculator/blob/bb13f3d955cf5e7b8bca78790add7496f5cbe558/Simple%20Calc.JPG))
+![Calculator Screenshot 1](https://github.com/Eugassmo14/SImple-Calculator/blob/bb13f3d955cf5e7b8bca78790add7496f5cbe558/Simple%20Calc.JPG)
 *Calculator waiting for input*
 
 ![Calculator Screenshot 2](screenshots/calculator_screenshot_2.png)
