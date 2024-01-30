@@ -14,7 +14,7 @@ This is a basic calculator GUI created using Python and Tkinter. It allows users
 - Error handling for invalid expressions.
 
 ## How to Use
-1. 🚀 Run the script (`calculator.py`) to launch the magical calculator.
+1. 🚀 Run the script (`Simple_Calculator.py`) to launch the magical calculator.
 2. 🌟 Enter the desired numbers and operators using the enchanting buttons.
 3. 🪄 Press the "C" button to clear the screen and start anew.
 4. 🎇 Press "=" to cast a spell and witness the mesmerizing result.
