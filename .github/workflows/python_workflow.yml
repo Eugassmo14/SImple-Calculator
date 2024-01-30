@@ -1,1 +1,23 @@
 
+name: Run Python Script
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run_python:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12  
+
+      - name: Run Python script
+        run: python Simple_Calculator.py  
